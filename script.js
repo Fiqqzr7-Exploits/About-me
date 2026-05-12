@@ -1,7 +1,7 @@
 /* ==========================================================================
    #DISCORD STATUS WITH LANYARD API
    ========================================================================== */
-const DISCORD_ID = "985719845314256907";
+const DISCORD_ID = "1288951000941461505";
 
 /**
  * Format durasi dari milidetik ke format jam:menit:detik
