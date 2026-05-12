@@ -1,7 +1,7 @@
 /* ==========================================================================
    #DISCORD STATUS WITH LANYARD API
    ========================================================================== */
-const DISCORD_ID = "1288951000941461505";
+const DISCORD_ID = "985719845314256907";
 
 /**
  * Format durasi dari milidetik ke format jam:menit:detik
@@ -125,7 +125,7 @@ async function updateDiscordStatus() {
 function updateClocks() {
     const now = new Date();
     const options = { 
-        timeZone: 'Asia/Jakarta', 
+        timeZone: 'Asia/KualaLumpur', 
         hour: '2-digit', 
         minute: '2-digit', 
         second: '2-digit', 
